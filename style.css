@@ -12,6 +12,8 @@ body {
 #recipe-list * {
     padding: 8px;
     color: lightgray;
+    width: 500px;
+    margin: 8px auto;
 }
 
 #recipe-list ul {
